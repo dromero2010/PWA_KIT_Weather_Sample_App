@@ -1,3 +1,12 @@
+This is a modified version of Salesforce's Composable Storefront to include a bare-bones weather component. It's purpose is to demonstrate how to utilize React Query to make external API calls. An example of how this is done can be found in this webinar: https://salesforce.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us06&componentName=need-password&meetingId=aSso_GUCVKTtRG0404sjT1So3tZL-5L3SIe3v6QRRSjVRaB2Vkxu7d-Lsel3V0P0.--mLuYCWatEITysc&originRequestUrl=https%3A%2F%2Fsalesforce.zoom.us%2Frec%2Fshare%2FPkJZnDpIqljU1s5L_xZeh6TMHt9qmzhOPTsuj99wkqUhyAifpLapaEcm061glyZh.cfn8jKi7H4JoFuuN
+
+The passcode to access the webinar: ^WDGm88B.y
+
+
+
+
+
+
 :loudspeaker: Hey there, Salesforce Commerce Cloud community!
 
 We’re excited to hear your thoughts on your developer experience with PWA Kit and the Composable Storefront generally! Your feedback is incredibly valuable in helping us guide our roadmap and improve our offering.
